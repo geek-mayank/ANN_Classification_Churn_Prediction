@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# TensorBoard Logs
+logs/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
